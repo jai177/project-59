@@ -1,24 +1,30 @@
 #firstp {
     font-size: 17px;
     font-family: sans-serif;
+    background-color: aqua;
 }
 
 #h1 {
     color: white;
     background-color: blue;
     font-family: sans-serif;
+    background-color: aqua;
 }
 
 #secondp {
     font-size: 17px;
     font-family: sans-serif;
+    background-color: aqua;
 }
 
 #thirdp {
     font-size: 17px;
     font-family: sans-serif;
+    background-color: aqua;
 }
-#fourthp{
+
+#fourthp {
     font-size: 17px;
-    font-family: sans-serif
+    font-family: sans-serif;
+    background-color: aqua;
 }

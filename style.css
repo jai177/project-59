@@ -4,7 +4,7 @@
     background-color: aqua;
 }
 
-#h1 {
+h1 {
     color: white;
     background-color: blue;
     font-family: sans-serif;
@@ -26,5 +26,10 @@
 #fourthp {
     font-size: 17px;
     font-family: sans-serif;
+    background-color: aqua;
+}
+
+body {
+    text-align: center;
     background-color: aqua;
 }
